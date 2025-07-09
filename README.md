@@ -52,7 +52,6 @@ This dashboard provides key business metrics and insights to understand sales tr
 
 ## 📸 Dashboard Preview
 
-> *(Insert your screenshot here)*  
 > `![Screenshot 2025-07-09 091352](https://github.com/user-attachments/assets/3d839507-745b-4491-ba81-81d4c8209ff6)'
 ---
 
